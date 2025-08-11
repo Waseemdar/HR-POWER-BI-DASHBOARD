@@ -4,6 +4,10 @@ This project is an interactive HR Analytics Dashboard built in Power BI to help 
 # Abstract
 The HR Analytics Dashboard is an interactive data visualization solution developed in Power BI to analyze workforce metrics such as attrition rates, employee demographics, job satisfaction, and educational background. Using a dataset of 1,470 employee records, the dashboard provides HR professionals and decision-makers with actionable insights to reduce attrition, improve employee engagement, and plan strategic hiring. By transforming raw HR data into clear visual narratives, this project demonstrates the power of business intelligence in driving data-driven human resource management.
 
+# Live Dashboard
+You can view the interactive HR Analytics Dashboard here:  
+[🔗 Click to View Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiOTZlMmIxZTItOGUzOS00OWQ1LTgxZTYtYTVjMWMzMWEwZmNlIiwidCI6ImYxNjYxNTY4LTMwMjgtNDMyNC05M2E3LWFlNjI4YWE3YjcwOSJ9 )
+
 # Tech Stack
 Power BI Desktop – Data modeling, dashboard creation, and interactive visualizations.
 Microsoft Excel – Data storage and preprocessing.
@@ -60,6 +64,7 @@ This tool bridges the gap between HR data and actionable insights, making it an 
 
 # Author
 Waseem Ahmad Dar
+
 Data Analytics Enthusiast | Power BI Developer | MEAL Coordinator | Consultant- Govt & Public Sector Advisory
 
 # All rights reserved.  
